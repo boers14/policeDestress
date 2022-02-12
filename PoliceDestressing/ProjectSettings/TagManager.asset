@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Painting
+  - MainInformation
+  - ToolKitMenu
+  - ColorPalette
+  - Ground
+  - StoneForMapping
+  - BirdHouse
+  - XRManager
+  - Branch
+  - Hammer
+  - ParentingObject
+  - Eraser
+  - Hands
+  - ColorChange
+  - SpawnPosition
+  - BirdHouseSpawner
+  - RightHand
+  - LeftHand
+  - Brush
+  - BirdFood
+  - IsColliderOfObject
+  - Bird
+  - Hologram
+  - WorkBench
+  - BirdLandingSpot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - connectedBirdHouse
+  - Water
+  - UI
+  - Grab
+  - Body
+  - Floor
+  - Teleportation
+  - Interaction
+  - Grab Ignore Ray
+  - Ignore Body
+  - 
+  - Bird
+  - Canvas
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
